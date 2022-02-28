@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    position: relative;
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    background-color: rgb(78, 160, 255);
+    background-size: contain;
+}
+
+header div {
+    width: 160px;%;
+    position: absolute;
+    bottom: 3px;
+    left: 0px;
+}
