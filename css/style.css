@@ -1,8 +1,8 @@
-* {
+*{    
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} 
 
 header {
     position: relative;
@@ -18,3 +18,32 @@ header div {
     bottom: 3px;
     left: 0px;
 }
+
+#title {
+    margin-top: 10px;
+}
+
+#title span {
+    color: rgb(137, 137, 137);
+}
+
+span a {
+    text-decoration: none;
+    color: rgb(78, 160, 255);
+}
+
+.img-title {
+    font-size: 12px;
+}
+
+#section-1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+ .bg-yellow {
+     background-color: yellow;
+ }
+
+ section ul {
+     margin-left: 30px;
+ }
